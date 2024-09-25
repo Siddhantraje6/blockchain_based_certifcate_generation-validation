@@ -346,6 +346,7 @@
 
             await window.contract.methods.CreateCertificate(institution, stuName, stuGrades, stuCourse).send({ from: account });
             const certi_id = await window.contract.methods.getcerti_idno().call()
+		//set the arttributes
             if(certi_id!=null){
                 // document.getElementById("send_instiname").setAttribute('value', institution);
                 document.getElementById("send_stuname").setAttribute('value', stuName);
