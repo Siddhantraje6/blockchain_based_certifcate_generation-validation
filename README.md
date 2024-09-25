@@ -11,7 +11,7 @@ The Blockchain technology used in this project makes it hard to manipulate a gen
 
 ## Demo
 
-https://github.com/rajvardhanSG/blockchain_based_certifcate_generation-validation/assets/145951592/c7566774-5996-4248-bc87-fd2a21c35036
+https://github.com/Siddhantraje6/blockchain_based_certifcate_generation-validation/assets/145951592/c7566774-5996-4248-bc87-fd2a21c35036
 
 
 
@@ -33,7 +33,7 @@ To run the project locally you need to download and install softwares mentioned 
 Clone the project
 
 ```bash
-  git clone https://github.com/rajvardhanSG/blockchain_based_certifcate_generation-validation
+  git clone https://github.com/Siddhantraje6/blockchain_based_certifcate_generation-validation
 ```
 
 Go to the project directory
@@ -66,7 +66,7 @@ Steps:
 - [Siddhantraje Suryawanshi](https://github.com/Siddhantraje6)
 ## Support
 
-For support, email rajvardhan2273@gmail.com 
+For support, email siddhant.raje.5g@gmail.com 
 
 
 ## License
